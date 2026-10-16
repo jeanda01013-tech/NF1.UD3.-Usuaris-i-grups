@@ -1,0 +1,3 @@
+Captures extretes del PDF original, en ordre de lectura (d'esquerra a dreta i de dalt a baix per pàgina).
+S'han extret 20 imatges incrustades, sense modificar-ne el contingut.
+Nota: les últimes captures mostren `echo $SHELL` amb resultat `/bin/bash`; això no demostra que la sessió de laura_dev estigui fent servir fish.
